@@ -1,5 +1,6 @@
 {
   "name": "mi-primera-app",
+  "author": "Porfirio Damián Escamilla Huerta",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
