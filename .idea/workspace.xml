@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58477844-18a5-4117-ad7d-d821f20644d8" name="Default Changelist" comment="">
+    <list default="true" id="58477844-18a5-4117-ad7d-d821f20644d8" name="Default Changelist" comment="Utilizando useState">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -42,8 +42,16 @@
       <updated>1607904189582</updated>
       <workItem from="1607904195529" duration="436000" />
       <workItem from="1607904676301" duration="5688000" />
-      <workItem from="1609363297408" duration="858000" />
+      <workItem from="1609363297408" duration="1467000" />
     </task>
+    <task id="LOCAL-00001" summary="Utilizando useState">
+      <created>1609364371903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609364371903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +68,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utilizando useState" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizando useState" />
   </component>
 </project>
